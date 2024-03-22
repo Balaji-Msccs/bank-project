@@ -1,0 +1,45 @@
+.create-background{
+   background-image: url('C:\Users\sridh_r56bldx\OneDrive\Desktop\Sri\global-bank\src\images\createaccount.png');
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+}
+
+.deposite-background{
+   background-image: url('C:\Users\sridh_r56bldx\OneDrive\Desktop\Sri\global-bank\src\images\deposit.jpeg');
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+
+}
+.withdraw-background{
+   background-image: url('C:\Users\sridh_r56bldx\OneDrive\Desktop\Sri\global-bank\src\images\withdraw.jpg');
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+
+}
+
+.withdraw-background{
+   background-image: url('C:\Users\sridh_r56bldx\OneDrive\Desktop\Sri\global-bank\src\images\withdraw.jpg');
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+
+}
+
+
+.alldata-background{
+   background-image: url('C:\Users\sridh_r56bldx\OneDrive\Desktop\Sri\global-bank\src\images\alldata.jpg');
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+
+}
+.home-background{
+   background-image: url('C:\Users\sridh_r56bldx\OneDrive\Desktop\Sri\global-bank\src\images\homepage.png');
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+
+}

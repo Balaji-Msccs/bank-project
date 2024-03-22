@@ -1,0 +1,48 @@
+.style{
+    background-color: #142b47;
+    font-family:'Comfortaa', cursive;
+    position: sticky;
+        
+}
+
+/* navbar.css */
+
+/* Container for the entire navigation bar */
+.style {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Headline style for the bank name */
+  .head {
+    color: white;
+    font-size: 24px;
+  }
+  
+  /* Navigation links */
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 16px;
+  }
+  
+  /* Change link color on hover */
+  nav a:hover {
+    color: #ddd;
+  }
+  
+  /* Active link style */
+  nav a.active {
+    font-weight: bold;
+  }
+  
+  /* Responsive navigation for small screens */
+  @media screen and (max-width: 600px) {
+    nav a {
+      display: block;
+      margin: 10px 0;
+    }
+  }
+  
